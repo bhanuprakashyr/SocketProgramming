@@ -1,9 +1,9 @@
 package tryOut.networks.socket;
+
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.Socket;
 import java.nio.charset.Charset;
-import java.util.Date;
 
 /**
  * Created by root on 29/5/16.
